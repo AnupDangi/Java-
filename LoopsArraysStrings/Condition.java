@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class condition {
+public class Condition {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
        int year=sc.nextInt();

@@ -1,5 +1,5 @@
 import java.util.*;
-public class hollowRect {
+public class HollowRect {
 
         static void print_rectangle(int n, int m)
         {

@@ -1,5 +1,5 @@
 import java.util.*;
-public class swapVar {
+public class SwapVar {
     public static void swap(int a,int b) {// Passing arguments 
         //here we are swapping using temporary variable 
         int temp;

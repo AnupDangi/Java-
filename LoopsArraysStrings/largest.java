@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class largest {
+public class Largest {
     public static void main(String[] args) {
         System.out.println("Enter two values for comparison of greatest ");
         Scanner sc=new Scanner(System.in);

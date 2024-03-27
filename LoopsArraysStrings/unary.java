@@ -1,4 +1,4 @@
-public class unary {
+public class Unary {
     public static void main(String[] args) {
         // int a=10;
         // int b=a++;

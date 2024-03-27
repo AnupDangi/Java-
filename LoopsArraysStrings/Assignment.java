@@ -1,4 +1,4 @@
-public class assignment {
+public class Assignment {
     public static void main(String[] args) {
         int A=10;
         int B=A;

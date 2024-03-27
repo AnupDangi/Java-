@@ -1,5 +1,5 @@
 
-public class datatypes {
+public class DatatypesUse {
     public static void main(String args[]) {
         byte b=8;//size  [1 byte = -128 to 127]
         System.out.print("\n"+b);

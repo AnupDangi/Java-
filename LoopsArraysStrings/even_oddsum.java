@@ -1,5 +1,5 @@
 import java.util.*;
-public class even_oddsum {
+public class Even_oddsum {
     public static void main(String args[])
     {
         System.out.println("Enter the number of terms ");

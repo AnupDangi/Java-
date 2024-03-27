@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class functionintro {
+public class Functionintro {
 //    public static int printhelloWorld()//Creating a function
 //    {
 //         System.out.println("Hello World");

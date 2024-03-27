@@ -1,5 +1,5 @@
 import java.util.*;
-public class casting {
+public class Casting {
     public static void main(String[] args) {
    /*  int a=25;
     long b=a;    //downcasting is possible ie explicit conversion should be done by the user 

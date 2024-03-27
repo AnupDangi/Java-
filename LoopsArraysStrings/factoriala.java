@@ -1,5 +1,5 @@
 import java.util.*;
-public class factoriala {
+public class Factoriala {
     public static void main(String[] args)
     {
         int fact=1;

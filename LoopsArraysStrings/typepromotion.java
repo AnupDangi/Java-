@@ -1,4 +1,4 @@
-public class typepromotion {
+public class Typepromotion {
     public static void main(String[] args) {
       byte b=7;
       byte a= (byte) (b*2);

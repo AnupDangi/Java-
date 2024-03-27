@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class threeLarge {
+public class ThreeLarge {
     public static void main(String[] args)
      {
         Scanner sc=new Scanner(System.in);
