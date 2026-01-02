@@ -1,0 +1,117 @@
+**LeetCode DSA Practice Plan: 500 Questions to Master FAANG/MAANG Interviews**
+
+### 1. Arrays (50 Questions)
+- **Easy**
+  1. Two Sum (Problem #1)
+  2. Best Time to Buy and Sell Stock (Problem #121)
+  3. Maximum Subarray (Problem #53)
+  4. Move Zeroes (Problem #283)
+  5. Remove Duplicates from Sorted Array (Problem #26)
+  6. Plus One (Problem #66)
+  7. Rotate Array (Problem #189)
+  8. Contains Duplicate (Problem #217)
+  9. Intersection of Two Arrays II (Problem #350)
+  10. Valid Mountain Array (Problem #941)
+
+- **Medium**
+  1. 3Sum (Problem #15)
+  2. Product of Array Except Self (Problem #238)
+  3. Maximum Product Subarray (Problem #152)
+  4. Subarray Sum Equals K (Problem #560)
+  5. Sort Colors (Problem #75)
+  6. Find the Duplicate Number (Problem #287)
+  7. Minimum Size Subarray Sum (Problem #209)
+  8. Merge Intervals (Problem #56)
+  9. Non-decreasing Array (Problem #665)
+  10. Spiral Matrix (Problem #54)
+
+- **Hard**
+  1. First Missing Positive (Problem #41)
+  2. Trapping Rain Water (Problem #42)
+  3. Median of Two Sorted Arrays (Problem #4)
+  4. Sliding Window Maximum (Problem #239)
+  5. Merge Sorted Array (Problem #88)
+
+### 2. Strings (50 Questions)
+- **Easy**
+  1. Reverse String (Problem #344)
+  2. Valid Anagram (Problem #242)
+  3. Implement strStr() (Problem #28)
+  4. Longest Common Prefix (Problem #14)
+  5. Count and Say (Problem #38)
+
+- **Medium**
+  1. Longest Substring Without Repeating Characters (Problem #3)
+  2. Group Anagrams (Problem #49)
+  3. Longest Palindromic Substring (Problem #5)
+  4. Decode String (Problem #394)
+  5. Reorganize String (Problem #767)
+
+- **Hard**
+  1. Minimum Window Substring (Problem #76)
+  2. Palindrome Partitioning II (Problem #132)
+  3. Wildcard Matching (Problem #44)
+
+### 3. Hashmaps (50 Questions)
+- **Easy**
+  1. Two Sum (Problem #1)
+  2. Ransom Note (Problem #383)
+  3. Happy Number (Problem #202)
+
+- **Medium**
+  1. Longest Substring Without Repeating Characters (Problem #3)
+  2. Subarray Sum Equals K (Problem #560)
+
+### 4. Linked Lists (50 Questions)
+- **Easy**
+  1. Reverse Linked List (Problem #206)
+  2. Merge Two Sorted Lists (Problem #21)
+
+- **Medium**
+  1. Add Two Numbers (Problem #2)
+  2. Odd Even Linked List (Problem #328)
+
+### 5. Stacks and Queues (50 Questions)
+- **Easy**
+  1. Valid Parentheses (Problem #20)
+
+- **Medium**
+  1. Daily Temperatures (Problem #739)
+  2. Simplify Path (Problem #71)
+
+### 6. Trees (75 Questions)
+- **Easy**
+  1. Maximum Depth of Binary Tree (Problem #104)
+  2. Same Tree (Problem #100)
+
+- **Medium**
+  1. Binary Tree Inorder Traversal (Problem #94)
+  2. Binary Tree Level Order Traversal (Problem #102)
+
+### 7. Graphs (75 Questions)
+- **Medium**
+  1. Number of Islands (Problem #200)
+  2. Clone Graph (Problem #133)
+
+### 8. Dynamic Programming (100 Questions)
+- **Easy**
+  1. Climbing Stairs (Problem #70)
+  2. House Robber (Problem #198)
+
+- **Medium**
+  1. Coin Change (Problem #322)
+  2. Longest Increasing Subsequence (Problem #300)
+
+- **Hard**
+  1. Edit Distance (Problem #72)
+  2. Burst Balloons (Problem #312)
+
+---
+**Approach:**
+- Start with easier problems in each topic to build a foundation.
+- Gradually move to medium and hard problems to strengthen your understanding.
+- Use the tags and discussion sections on LeetCode to gain insights into different approaches.
+- Ensure you revise solved problems regularly to retain concepts.
+
+Good luck with your practice, Anup! This structured plan will help you build strong problem-solving skills for FAANG/MAANG interviews.
+
